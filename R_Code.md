@@ -4,7 +4,7 @@
 
 
 
-### Members vs Casual Riders
+### Annual Members vs Casual Riders
 
 ```r
 ggplot(data = Divvy_Q1) +
@@ -50,7 +50,7 @@ Divvy_Q1 %>%
 # Ride Length by User Type
 
 
-### Casual
+### Casual Riders
 
 ```r
 Divvy_Q1 %>%
@@ -66,7 +66,7 @@ Divvy_Q1 %>%
 ```
 
 
-### Members
+### Annual Members
 
 ```r
 Divvy_Q1 %>%
